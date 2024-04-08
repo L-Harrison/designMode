@@ -1,6 +1,6 @@
 ﻿namespace AdapterPattern;
 
-public class Adapter
+public class AdaptercCtor
 {
     public void DO()
     {
